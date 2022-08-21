@@ -19,3 +19,6 @@ https://www.e-stat.go.jp/gis/statmap-search?type=2
 
 フォルダは、あらかじめ、`dl`, `dat`, `gml`, `mbtiles`を作っておく。
 
+## 感想
+GeoJSON時点ではきれいに表示されているけど、タイル化すると汚くなる。
+ポリゴンの結合をtippecanoe任せにしたけど、事前処理した方が絶対良さそう。
