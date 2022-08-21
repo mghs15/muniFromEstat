@@ -1,6 +1,8 @@
 # muniFromEstat
 e-Statから、市町村ポリゴンを作る（微妙）
 
+https://mghs15.github.io/muniFromEstat/index2.html
+
 ## データ
 e-Statの境界データのうち、2020年の国勢調査 小地域
 
