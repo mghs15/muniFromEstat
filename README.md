@@ -3,7 +3,7 @@ e-Statから、市町村ポリゴンを作る（微妙）
 
 https://mghs15.github.io/muniFromEstat/index2.html
 
-※北方領土のデータがないので注意
+※一部地域のデータがないので注意
 
 ## データ
 e-Statの境界データのうち、2020年の国勢調査 小地域
